@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quét số điện thoại</string>
+    <string name="camera_preview">Khung xem trước camera</string>
+    <string name="aim_instruction">Chỉ số trong khung được quét • Chạm để lấy nét</string>
+    <string name="focus_locked">Đang lấy nét và đo sáng</string>
+    <string name="capture">Chụp và quét</string>
+    <string name="processing">Đang nhận diện…</string>
+    <string name="number_found">Đã tìm thấy số điện thoại</string>
+    <string name="no_number_found">Không thấy số rõ trong khung</string>
+    <string name="tap_to_dial">Kiểm tra lại số rồi chạm để mở ứng dụng gọi điện. Ảnh không được lưu.</string>
+    <string name="scan_again">Chụp lại</string>
+    <string name="camera_permission_title">Cần quyền sử dụng camera</string>
+    <string name="camera_permission_explanation">Ứng dụng chỉ dùng camera khi màn hình này đang mở. Ảnh được xử lý trong bộ nhớ và không được lưu.</string>
+    <string name="grant_camera_permission">Cho phép camera</string>
+    <string name="continue_label">Tiếp tục</string>
+    <string name="camera_start_error">Không thể khởi động camera. Hãy thử mở lại ứng dụng.</string>
+    <string name="capture_error">Không thể chụp ảnh. Vui lòng thử lại.</string>
+    <string name="ocr_error">Không thể nhận diện chữ trong ảnh. Vui lòng thử lại.</string>
+    <string name="no_dialer">Thiết bị không có ứng dụng gọi điện phù hợp.</string>
+    <string name="open_dialer_for">Mở ứng dụng gọi điện với số %1$s</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#176B5B</color>
+    <color name="primary_dark">#0D5044</color>
+    <color name="surface">#FFFDFC</color>
+    <color name="surface_dark">#101514</color>
+    <color name="on_surface">#1A1C1B</color>
+    <color name="on_surface_variant">#414947</color>
+    <color name="scan_accent">#7EF8D5</color>
+    <color name="overlay_dark">#B3101514</color>
+</resources>
+
